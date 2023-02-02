@@ -1,1 +1,1 @@
-bier; 5 euro; hallo; 2 Euro
+bier; 5 euro; saft; 2 euro; wasser; gratis;
